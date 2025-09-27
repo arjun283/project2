@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 Commodity Price Predictor
 
 A comprehensive Streamlit application for commodity price prediction, analysis, and trading strategy backtesting. Built with Python, Streamlit, and machine learning libraries.
@@ -343,3 +344,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ for the commodity trading community**
+=======
+# project2
+>>>>>>> 9376f2cc60d43ad8f125a558cfa40bc38c4cc3ab
